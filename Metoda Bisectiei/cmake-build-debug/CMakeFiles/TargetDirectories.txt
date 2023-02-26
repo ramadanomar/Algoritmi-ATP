@@ -1,0 +1,3 @@
+C:/Users/ramad/Documents/Facultate/MN/cmake-build-debug/CMakeFiles/MN.dir
+C:/Users/ramad/Documents/Facultate/MN/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ramad/Documents/Facultate/MN/cmake-build-debug/CMakeFiles/rebuild_cache.dir
