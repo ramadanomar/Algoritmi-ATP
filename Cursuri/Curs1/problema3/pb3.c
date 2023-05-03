@@ -43,3 +43,5 @@ int max(int x[N][M]) {
     }
   }
   return maxim;
+}
+
